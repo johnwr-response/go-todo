@@ -9,11 +9,10 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.0.2 // indirect
-	github.com/gofiber/fiber/v2 v2.22.0 // indirect
+	github.com/gofiber/fiber/v2 v2.22.0
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/klauspost/compress v1.13.4 // indirect
 	github.com/lib/pq v1.10.4
-	github.com/pachecoio/go-todo v0.0.0-20211120185343-fd1bcd77efb7
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.31.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
